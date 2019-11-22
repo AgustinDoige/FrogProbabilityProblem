@@ -16,7 +16,9 @@ The question is, at one side, what is the *expected number of jumps that it will
  > Simulated_Expectancy(10) = 2.92766              Calculation Time: 1.684s
  
  ### Bonus Solution:  
-  ## [Image](https://raw.githubusercontent.com/AgustinDoige/FrogProbabilityProblem/master/DSC_0019c.jpg)
+  ## [Image](https://raw.githubusercontent.com/AgustinDoige/FrogProbabilityProblem/master/DSC_0019c.jpg)  
+
+A non rigorous explanation on the image DSC_0019b.  
 
 Also implemented on the program: *frogProblemLeg.py*  
 
